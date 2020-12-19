@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Skyeasybind",
+  "name": "Skyeasybind",
+  "description": "Easy binds for Hypixel SkyBlock",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RaiTaki"],
+  "credits": "Google",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
