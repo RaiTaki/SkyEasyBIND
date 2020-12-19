@@ -25,7 +25,6 @@ public class KeyInputHandler {
     	if(KeyBindings.craft.isPressed())
     		Minecraft.getMinecraft().thePlayer.sendChatMessage("/craft");
     	
-    	
     	if(KeyBindings.echest.isPressed())
     		Minecraft.getMinecraft().thePlayer.sendChatMessage("/echest");
 

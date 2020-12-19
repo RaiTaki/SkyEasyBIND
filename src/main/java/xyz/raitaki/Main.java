@@ -8,7 +8,7 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 @Mod(modid = References.MODID, name = References.NAME, version = References.VERSION)
-public class Testbaby {
+public class Main {
 
 	
 	@Mod.EventHandler
